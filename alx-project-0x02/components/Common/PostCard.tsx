@@ -8,7 +8,7 @@ const PostCard: React.FC<PostProps> = ({ title, content, userId }) => {
         {content}
       </p>
 
-      <span className="text-xs text-gray-500">User ID: {userId}</span>
+      <span className="text-xs text-gray-500">{userId}</span>
     </div>
   );
 };
