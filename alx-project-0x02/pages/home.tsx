@@ -1,6 +1,6 @@
 import { NextPage } from "next";
-import Card from "@/components/Common/Card";
-import PostModal from "@/components/Common/PostModal";
+import Card from "@/components/common/Card";
+import PostModal from "@/components/common/PostModal";
 import { useState } from "react";
 import Header from "@/components/layout/Header";
 

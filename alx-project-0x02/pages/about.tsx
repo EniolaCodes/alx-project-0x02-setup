@@ -1,5 +1,5 @@
 import { NextPage } from "next";
-import Button from "@/components/Common/Button";
+import Button from "@/components/common/Button";
 import Header from "@/components/layout/Header";
 
 const About: NextPage = () => {
